@@ -1,0 +1,17 @@
+.lead__combined {
+  display: flex;
+  flex-direction: column;
+  padding-top: 64px;
+}
+
+@media screen and (max-width: 1024px){
+  .lead__combined {
+    padding-top: 56px;
+  }
+}
+
+@media screen and (max-width: 525px){
+  .lead__combined {
+    padding-top: 40px;
+  }
+}
