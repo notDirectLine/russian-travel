@@ -1,0 +1,9 @@
+.header__lang-item {
+  margin: 0;
+  list-style: none;
+  padding-right: 18px;
+}
+
+.header__lang-item:last-child {
+  padding-right: 0;
+}
